@@ -2169,7 +2169,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/atomicgraph",
             },
         ],
     },
@@ -2177,11 +2177,6 @@ var socials = [
         label: "Twitter",
         icon: "TwitterIcon",
         href: "https://twitter.com/FinanceGoose",
-    },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
     },
 ];
 var MENU_HEIGHT = 64;
