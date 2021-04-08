@@ -2176,7 +2176,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/FinanceGoose",
+        href: "https://twitter.com/atomicgraph",
     },
 ];
 var MENU_HEIGHT = 64;
